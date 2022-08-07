@@ -130,4 +130,7 @@ main{
     line-height: 1.45em;
     width: 94%;
   }
+  .details .dollar{
+    margin-bottom: .75em;
+  }
 }
